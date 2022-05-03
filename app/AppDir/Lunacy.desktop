@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Name=Lunacy
+GenericName=Lunacy Graphic Editor
+Exec=AppRun %u
+Icon=lunacy
+Type=Application
+Terminal=false
+Categories=Graphics;X-Editors;
+MimeType=x-scheme-handler/i8-lunacy;
+StartupWMClass=Lunacy
